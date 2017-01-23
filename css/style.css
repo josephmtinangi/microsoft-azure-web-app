@@ -1,0 +1,23 @@
+body {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.navbar {
+    margin: 0;
+    border-radius: 0;
+    border: none;
+}
+
+main {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #999;
+    background: #333;
+    text-align: center;
+}
