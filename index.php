@@ -8,7 +8,19 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css" />
 	</head>
 	<body>
-	    
+	    <div class="navbar">
+	    	<div class="container-fluid">
+	    		<a class="navbar-brand" href="#">Joseph Mtinangi</a>
+	    		<ul class="nav navbar-nav">
+	    			<li class="active">
+	    				<a href="#">Home</a>
+	    			</li>
+	    			<li>
+	    				<a href="#">About</a>
+	    			</li>
+	    		</ul>
+	    	</div>
+	    </div>	    
 	    <!--site header-->
 	    <header>
 	    	<div class="jumbotron">
