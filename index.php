@@ -8,9 +8,23 @@
 	</head>
 	<body>
 	    
-	    <h1>Joseph Mtinangi</h1>
-	    <p>Full stack developer</p>
-	    <a href="#">Read more &raqua;</a>
+	    <!--site header-->
+	    <header>
+	    	<div class="jumbotron">
+	    		<div class="container">
+	    			<h1>Joseph Mtinangi</h1>
+	    			<p>I am learning Microsoft Windows Server</p>
+	    			<p>
+	    				<a class="btn btn-primary btn-lg">Read more &raquo;</a>
+	    			</p>
+	    		</div>
+	    	</div>
+	    </header>
+
+	    
+	    <!--site-main-->
+	    
+	    <!--site-footer-->
 		
 	</body>
 </html>
