@@ -68,7 +68,7 @@
 	    			<div class="row text-center">
 	    				<div class="col-sm-2">
 	    					<i class="fa fa-cloud fa-icon"></i>
-	    					<h2>Cloud Services</h2>
+	    					<h2><a href="#">Cloud Services</a></h2>
 	    					<p>
 	    						<span class="badge badge-primary">15</span> Series <br>
 	    						<span class="badge badge-primary">256</span> Videos <br>
@@ -76,7 +76,7 @@
 	    				</div>
 	    				<div class="col-sm-2">
 	    					<i class="fa fa-git fa-icon"></i>
-	    					<h2>VCS</h2>
+	    					<h2><a href="#">VCS</a></h2>
 	    					<p>
 	    						<span class="badge badge-primary">8</span> Series <br>
 	    						<span class="badge badge-primary">176</span> Videos <br>
@@ -84,7 +84,7 @@
 	    				</div>	
 	    				<div class="col-sm-2">
 	    					<i class="fa fa-users fa-icon"></i>
-	    					<h2>Team Building</h2>
+	    					<h2><a href="#">Team Building</a></h2>
 	    					<p>
 	    						<span class="badge badge-primary">11</span> Series <br>
 	    						<span class="badge badge-primary">203</span> Videos <br>
@@ -92,7 +92,7 @@
 	    				</div>
 	    				<div class="col-sm-2">
 	    					<i class="fa fa-file-text fa-icon"></i>
-	    					<h2>Programming</h2>
+	    					<h2><a href="#">Programming</a></h2>
 	    					<p>
 	    						<span class="badge badge-primary">43</span> Series <br>
 	    						<span class="badge badge-primary">543</span> Videos <br>
@@ -100,7 +100,7 @@
 	    				</div>	  
 	    				<div class="col-sm-2">
 	    					<i class="fa fa-wrench fa-icon"></i>
-	    					<h2>Debugging</h2>
+	    					<h2><a href="#">Debugging</a></h2>
 	    					<p>
 	    						<span class="badge badge-primary">15</span> Series <br>
 	    						<span class="badge badge-primary">256</span> Videos <br>
@@ -108,7 +108,7 @@
 	    				</div>
 	    				<div class="col-sm-2">
 	    					<i class="fa fa-bullhorn fa-icon"></i>
-	    					<h2>Public Speaking</h2>
+	    					<h2><a href="#">Public Speaking</a></h2>
 	    					<p>
 	    						<span class="badge badge-primary">15</span> Series <br>
 	    						<span class="badge badge-primary">256</span> Videos <br>
